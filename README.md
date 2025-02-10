@@ -4,7 +4,7 @@
 <br />
 <div align="center"> 
   <a href="https://github.com/feiryrej/bank-account">
-    <img src="https://github.com/user-attachments/assets/2897e38b-3bed-4f4c-a473-e8232ddd7014" alt="Logo" width="170" height="170">
+    <img src="https://github.com/user-attachments/assets/2897e38b-3bed-4f4c-a473-e8232ddd7014" alt="Logo" width="100" height="100">
   </a>
 
   <h1 align="center">CRUD Bank Account using C</h1> 
@@ -54,7 +54,7 @@ gcc -o bank_account main.c
         <td><img src="https://avatars.githubusercontent.com/u/116869096?s=400&u=43146b191775802d9ab2f0f721b452ffc52c9efa&v=4" alt="" style="border-radius: 50%; width: 50px;"></td>
         <td><a href="https://github.com/feiryrej">feiryrej</a></td>
         <td>
-           I created this during my first year with the help of my girlfriend. At that time, I was new to file handling and even functions in C. Working on this project opened a new window for me, it helped me grasp these concepts and fueled my passion for developing the systems I create today.
+           I created this during my first year with the help of my girlfriend <a href="https://github.com/krislette">krislette</a>. At that time, I was new to file handling and even functions in C. Working on this project opened a new window for me, it helped me grasp these concepts and fueled my passion for developing the systems I create today.
         </td>
       </tr>
       </tbody>
